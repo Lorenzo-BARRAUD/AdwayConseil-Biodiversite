@@ -1,0 +1,19 @@
+1. Risque physique
+Le risque physique découle des dommages directs causés par les phénomènes météorologiques et climatiques sur les écosystèmes et les infrastructures. Ces risques se divisent en deux sous-catégories :
+
+Les risques physiques aigus se manifestent lors d'événements extrêmes, tels que les tempêtes, les inondations ou les incendies. Ces événements perturbent les écosystèmes et ont des répercussions immédiates sur les entreprises. Par exemple, la tempête Xynthia de 2010 en France a provoqué des vents violents et des inondations, causant 47 décès et des pertes économiques évaluées à 2,2 milliards d’euros, dont 1,5 milliard supporté par les assureurs.
+Les risques physiques chroniques sont des phénomènes progressifs, tels que l’augmentation des températures ou la montée du niveau des océans, qui perturbent les activités économiques à long terme. Par exemple, la sécheresse de 2022 en France, liée à l'augmentation des températures, a gravement affecté les productions agricoles, entraînant des pertes pour les assureurs pouvant aller jusqu’à 2,4 milliards d’euros.
+Les entreprises les plus dépendantes des écosystèmes sont les plus exposées à ces risques. Ces impacts se traduisent par des pertes de revenus et des difficultés à rembourser les prêts bancaires, ce qui affecte directement les institutions financières, augmentant le risque d’insolvabilité pour les entreprises concernées.
+
+2. Risque de transition
+Le risque de transition est lié aux changements économiques, réglementaires et technologiques qui accompagnent la transition vers une économie plus durable. Ce risque résulte de la mise en place de nouvelles politiques environnementales, du changement des comportements des consommateurs, ou encore de la nécessité pour les entreprises de se conformer à des normes plus strictes.
+
+Exemple en France : La Stratégie Nationale Bas Carbone impose des objectifs de réduction des émissions de gaz à effet de serre, contraignant les entreprises à adapter leurs activités. Cela peut représenter un coût financier élevé pour celles qui ne s'y préparent pas, avec un risque accru de défaut de paiement sur leurs emprunts.
+Exemple aux Pays-Bas : Le plan de réduction des émissions d’azote a entraîné la fermeture ou la restructuration de fermes d’élevage intensif, provoquant une forte opposition. Ce type de réglementation peut affecter de manière significative la rentabilité de certains secteurs, notamment l’agriculture, en contraignant les entreprises à réduire leur production ou à investir dans des technologies de réduction des émissions.
+Les banques et les fonds d’investissement qui financent des entreprises n’ayant pas anticipé ces évolutions risquent des pertes significatives, en raison de la dévaluation soudaine des actifs dans des secteurs jugés non durables.
+
+3. Risque systémique
+Le risque systémique désigne les effets en cascade que la dégradation de la biodiversité peut avoir sur l’ensemble de l’économie, y compris sur le secteur financier. La dépréciation massive des actifs liés à des industries polluantes, comme les énergies fossiles, pourrait déclencher des crises financières à grande échelle. Un exemple serait une baisse drastique de la valeur des mines de charbon ou des puits de pétrole en raison de nouvelles politiques environnementales visant à réduire les émissions de carbone.
+
+L'exposition à ce type de risque concerne particulièrement les institutions financières qui détiennent ou financent des actifs dans des secteurs vulnérables à la transition écologique. Par ailleurs, une mauvaise gestion de ces risques pourrait provoquer une perte de compétitivité pour ces institutions, ainsi qu'une érosion de leur solvabilité.
+
